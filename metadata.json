@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Meta Generator",
+  "description": "Upload an image to generate a descriptive title, a detailed description, relevant keywords (for AI, EPS, SVG formats), and a SEO-friendly filename using AI.",
+  "requestFramePermissions": []
+}
